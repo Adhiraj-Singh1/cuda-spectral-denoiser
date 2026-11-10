@@ -1,0 +1,6 @@
+# Build products
+bin/
+obj/
+
+# Generated input data (recreate with `make data`, ~34 MB)
+data/
