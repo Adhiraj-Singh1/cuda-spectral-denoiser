@@ -87,7 +87,7 @@ Any extra arguments are passed on, for example
 
 ```python
 # Runtime -> Change runtime type -> T4 GPU, then:
-!git clone https://github.com/<your-username>/cuda-spectral-denoiser.git
+!git clone https://github.com/Adhiraj-Singh1/cuda-spectral-denoiser.git
 %cd cuda-spectral-denoiser
 !bash run.sh
 ```
